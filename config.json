@@ -1,0 +1,10 @@
+{
+    "client_id": "w7QYkGuFDv8MpoHeqixRbA",
+    "client_secret": "dsDIOHYmM6dAQarULOe1-KhUm9B8Dw",
+    "user_agent": "python:gameasset-crawler:v0.1 (by /u/beyond-boreas)",
+    "subreddits": "gameassets, gamedev",
+    "sort": "hot",
+    "output_path": "output.txt",
+    "limit": "",
+    "time": "all"
+}
